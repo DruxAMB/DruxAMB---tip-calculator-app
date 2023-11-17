@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://your-solution-url.com)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -62,9 +62,9 @@ I want to focus more on forEach method() in javaScript.
 ## Author
 
 - Website - [Muhammad Amoo](https://druxamb.github.io/DruxAMB-Portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DruxAMB)
-- Twitter - [@yourusername](https://www.twitter.com/DruxAMB)
-- Instagram - [@yourusername](https://www.instagram.com/druxamb)
+- Frontend Mentor - [DruxAMB](https://www.frontendmentor.io/profile/DruxAMB)
+- Twitter - [DruxAMB](https://www.twitter.com/DruxAMB)
+- Instagram - [DruxAMB](https://www.instagram.com/druxamb)
 
 ## Acknowledgments
 
